@@ -1,4 +1,4 @@
-# BINOVATION: Smart Waste Management System
+# BINOVATION: Smart Waste Bin Management System
 
 ## Project Overview
 Welcome to the first version of our project titled BINOVATION. This project aims to develop an innovative waste management system that combines technology and ecology to optimize waste management.
