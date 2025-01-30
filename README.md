@@ -1,17 +1,21 @@
 # BINOVATION: Smart Waste Management System
-Project Overview
+
+##Project Overview
 Welcome to the first version of our project titled BINOVATION. This project aims to develop an innovative waste management system that combines technology and ecology to optimize waste management.
 
 ## Objectives
 The main goal of BINOVATION is to implement an intelligent waste bin system featuring three key functionalities:
 
-## Real-Time Fill Level Measurement: The system is capable of continuously measuring the fill level of the bin to optimize collection cycles.
+### Real-Time Fill Level Measurement: 
+The system is capable of continuously measuring the fill level of the bin to optimize collection cycles.
 
-## Display of Fill Level: Information about the fill level is displayed in real-time on an integrated LCD screen on the bin, allowing for direct and easy visualization.
+### Display of Fill Level: 
+Information about the fill level is displayed in real-time on an integrated LCD screen on the bin, allowing for direct and easy visualization.
 
-Automatic Bin Locking: Once the bin reaches its maximum capacity, it automatically locks to prevent overflow and to signal that it is ready to be emptied.
+### Automatic Bin Locking: 
+Once the bin reaches its maximum capacity, it automatically locks to prevent overflow and to signal that it is ready to be emptied.
 
-## Dedicated Mobile Application
+### Dedicated Mobile Application
 The data collected by the system is also accessible through a dedicated mobile application. This app allows users to view the fill levels of the bins in real-time, thus facilitating remote management and planning of collection interventions.
 
 # TOF Distance Measurement Project version 0.0.1
