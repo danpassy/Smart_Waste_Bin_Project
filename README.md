@@ -21,7 +21,7 @@ The data collected by the system is also accessible through a dedicated mobile a
 # TOF Distance Measurement And LCD Display  version 0.0.1
 
 ## Project Description - version 0.0.1
-This first step of this project implements a real-time distance measurement system using the integrated Time-of-Flight (TOF) sensor on the STM32 B-U585I-IOT02A board. The system displays the fill level percentage on an I2C LCD screen and through serial communication. T
+This first step of this project implements a real-time distance measurement system using the integrated Time-of-Flight (TOF) sensor on the STM32 B-U585I-IOT02A board. The system displays the fill level percentage on an I2C LCD screen and through serial communication. 
 
 ## Hardware Requirements
 - STM32 B-U585I-IOT02A Development Board
