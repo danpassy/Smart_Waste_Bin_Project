@@ -18,7 +18,7 @@ Once the bin reaches its maximum capacity, it automatically locks to prevent ove
 ### Dedicated Mobile Application
 The data collected by the system is also accessible through a dedicated mobile application. This app allows users to view the fill levels of the bins in real-time, thus facilitating remote management and planning of collection interventions.
 
-# TOF Distance Measurement Project version 0.0.1
+# TOF Distance Measurement And LCD Display  version 0.0.1
 
 ## Project Description - version 0.0.1
 This first step of this project implements a real-time distance measurement system using the integrated Time-of-Flight (TOF) sensor on the STM32 B-U585I-IOT02A board. The system displays the fill level percentage on an I2C LCD screen and through serial communication. T
