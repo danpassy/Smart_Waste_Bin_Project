@@ -57,7 +57,7 @@ This first step of this project implements a real-time distance measurement syst
    - Configure pins for I2C1 (SCL/SDA)
    - Configure pins for TOF sensor
 
-4. **Middleware 
+4. **Middleware** 
    - Configuration of TOF1
 
 
